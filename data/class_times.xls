@@ -1,0 +1,601 @@
+<!DOCTYPE html>
+<html class='pc chrome win psc_dir-ltr psc_form-xlarge' dir='ltr' lang='en'>
+<!-- Copyright (c) 2000, 2018, Oracle and/or its affiliates. All rights reserved. -->
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><body><table border='1' cellpadding='3' cellspacing='0'>
+<tr>
+<th>Class</th><th>Class Title</th><th>Enrolled</th><th>Wait Tot</th><th>Days &amp; Times</th><th>Room</th><th>Class Dates</th></tr>
+<tr>
+<td  >CSE 1010-001
+  (4300)</td>
+<td  >Intro Computing for Engineers (Lecture)</td>
+<td  >750</td>
+<td  ></td>
+<td  >TBA</td>
+<td  >No Room Required - Online</td>
+<td  >Aug 31, 2020-<br />Dec 11, 2020</td>
+<tr>
+<td  >CSE 1010-001L
+  (4301)</td>
+<td  >Intro Computing for Engineers (Laboratory)</td>
+<td  >20</td>
+<td  ></td>
+<td  >We 8:00AM - 9:50AM</td>
+<td  >No Room Required - Online</td>
+<td  >Aug 31, 2020-<br />Dec 11, 2020</td>
+<tr>
+<td  >CSE 1010-002L
+  (4302)</td>
+<td  >Intro Computing for Engineers (Laboratory)</td>
+<td  >20</td>
+<td  ></td>
+<td  >We 6:40PM - 8:30PM</td>
+<td  >No Room Required - Online</td>
+<td  >Aug 31, 2020-<br />Dec 11, 2020</td>
+<tr>
+<td  >CSE 1010-003L
+  (4303)</td>
+<td  >Intro Computing for Engineers (Laboratory)</td>
+<td  >19</td>
+<td  ></td>
+<td  >We 11:15AM - 1:05PM</td>
+<td  >No Room Required - Online</td>
+<td  >Aug 31, 2020-<br />Dec 11, 2020</td>
+<tr>
+<td  >CSE 1010-004L
+  (4304)</td>
+<td  >Intro Computing for Engineers (Laboratory)</td>
+<td  >19</td>
+<td  ></td>
+<td  >We 2:30PM - 4:20PM</td>
+<td  >No Room Required - Online</td>
+<td  >Aug 31, 2020-<br />Dec 11, 2020</td>
+<tr>
+<td  >CSE 1010-005L
+  (4305)</td>
+<td  >Intro Computing for Engineers (Laboratory)</td>
+<td  >21</td>
+<td  ></td>
+<td  >We 4:40PM - 6:30PM</td>
+<td  >No Room Required - Online</td>
+<td  >Aug 31, 2020-<br />Dec 11, 2020</td>
+<tr>
+<td  >CSE 1010-006L
+  (4408)</td>
+<td  >Intro Computing for Engineers (Laboratory)</td>
+<td  >20</td>
+<td  ></td>
+<td  >We 6:40PM - 8:30PM</td>
+<td  >No Room Required - Online</td>
+<td  >Aug 31, 2020-<br />Dec 11, 2020</td>
+<tr>
+<td  >CSE 1010-007L
+  (4714)</td>
+<td  >Intro Computing for Engineers (Laboratory)</td>
+<td  >20</td>
+<td  ></td>
+<td  >We 4:40PM - 6:30PM</td>
+<td  >No Room Required - Online</td>
+<td  >Aug 31, 2020-<br />Dec 11, 2020</td>
+<tr>
+<td  >CSE 1010-011L
+  (4307)</td>
+<td  >Intro Computing for Engineers (Laboratory)</td>
+<td  >21</td>
+<td  ></td>
+<td  >Fr 8:00AM - 9:50AM</td>
+<td  >No Room Required - Online</td>
+<td  >Aug 31, 2020-<br />Dec 11, 2020</td>
+<tr>
+<td  >CSE 1010-012L
+  (4308)</td>
+<td  >Intro Computing for Engineers (Laboratory)</td>
+<td  >20</td>
+<td  ></td>
+<td  >Fr 4:40PM - 6:30PM</td>
+<td  >No Room Required - Online</td>
+<td  >Aug 31, 2020-<br />Dec 11, 2020</td>
+<tr>
+<td  >CSE 1010-013L
+  (4411)</td>
+<td  >Intro Computing for Engineers (Laboratory)</td>
+<td  >20</td>
+<td  ></td>
+<td  >Fr 12:00PM - 1:50PM</td>
+<td  >No Room Required - Online</td>
+<td  >Aug 31, 2020-<br />Dec 11, 2020</td>
+<tr>
+<td  >CSE 1010-014L
+  (4309)</td>
+<td  >Intro Computing for Engineers (Laboratory)</td>
+<td  >18</td>
+<td  ></td>
+<td  >Fr 2:30PM - 4:20PM</td>
+<td  >No Room Required - Online</td>
+<td  >Aug 31, 2020-<br />Dec 11, 2020</td>
+<tr>
+<td  >CSE 1010-015L
+  (4310)</td>
+<td  >Intro Computing for Engineers (Laboratory)</td>
+<td  >18</td>
+<td  ></td>
+<td  >Fr 4:40PM - 6:30PM</td>
+<td  >No Room Required - Online</td>
+<td  >Aug 31, 2020-<br />Dec 11, 2020</td>
+<tr>
+<td  >CSE 1010-016L
+  (4311)</td>
+<td  >Intro Computing for Engineers (Laboratory)</td>
+<td  >20</td>
+<td  ></td>
+<td  >Fr 10:00AM - 11:50AM</td>
+<td  >No Room Required - Online</td>
+<td  >Aug 31, 2020-<br />Dec 11, 2020</td>
+<tr>
+<td  >CSE 1010-017L
+  (4409)</td>
+<td  >Intro Computing for Engineers (Laboratory)</td>
+<td  >19</td>
+<td  ></td>
+<td  >Fr 2:30PM - 4:20PM</td>
+<td  >No Room Required - Online</td>
+<td  >Aug 31, 2020-<br />Dec 11, 2020</td>
+<tr>
+<td  >CSE 1010-021L
+  (7338)</td>
+<td  >Intro Computing for Engineers (Laboratory)</td>
+<td  >20</td>
+<td  ></td>
+<td  >We 11:15AM - 1:05PM</td>
+<td  >No Room Required - Online</td>
+<td  >Aug 31, 2020-<br />Dec 11, 2020</td>
+<tr>
+<td  >CSE 1010-022L
+  (7339)</td>
+<td  >Intro Computing for Engineers (Laboratory)</td>
+<td  >21</td>
+<td  ></td>
+<td  >We 2:30PM - 4:20PM</td>
+<td  >No Room Required - Online</td>
+<td  >Aug 31, 2020-<br />Dec 11, 2020</td>
+<tr>
+<td  >CSE 1010-023L
+  (7340)</td>
+<td  >Intro Computing for Engineers (Laboratory)</td>
+<td  >21</td>
+<td  ></td>
+<td  >Th 8:00AM - 9:50AM</td>
+<td  >No Room Required - Online</td>
+<td  >Aug 31, 2020-<br />Dec 11, 2020</td>
+<tr>
+<td  >CSE 1010-024L
+  (7341)</td>
+<td  >Intro Computing for Engineers (Laboratory)</td>
+<td  >20</td>
+<td  ></td>
+<td  >Th 10:00AM - 11:50AM</td>
+<td  >No Room Required - Online</td>
+<td  >Aug 31, 2020-<br />Dec 11, 2020</td>
+<tr>
+<td  >CSE 1010-025L
+  (7342)</td>
+<td  >Intro Computing for Engineers (Laboratory)</td>
+<td  >20</td>
+<td  ></td>
+<td  >Th 6:40PM - 8:30PM</td>
+<td  >No Room Required - Online</td>
+<td  >Aug 31, 2020-<br />Dec 11, 2020</td>
+<tr>
+<td  >CSE 1010-026L
+  (7343)</td>
+<td  >Intro Computing for Engineers (Laboratory)</td>
+<td  >20</td>
+<td  ></td>
+<td  >Th 4:30PM - 6:20PM</td>
+<td  >No Room Required - Online</td>
+<td  >Aug 31, 2020-<br />Dec 11, 2020</td>
+<tr>
+<td  >CSE 1010-027L
+  (7344)</td>
+<td  >Intro Computing for Engineers (Laboratory)</td>
+<td  >20</td>
+<td  ></td>
+<td  >Th 6:30PM - 8:20PM</td>
+<td  >No Room Required - Online</td>
+<td  >Aug 31, 2020-<br />Dec 11, 2020</td>
+<tr>
+<td  >CSE 1010-031L
+  (4313)</td>
+<td  >Intro Computing for Engineers (Laboratory)</td>
+<td  >19</td>
+<td  ></td>
+<td  >Th 8:00AM - 9:50AM</td>
+<td  >No Room Required - Online</td>
+<td  >Aug 31, 2020-<br />Dec 11, 2020</td>
+<tr>
+<td  >CSE 1010-032L
+  (4314)</td>
+<td  >Intro Computing for Engineers (Laboratory)</td>
+<td  >20</td>
+<td  ></td>
+<td  >Th 10:00AM - 11:50AM</td>
+<td  >No Room Required - Online</td>
+<td  >Aug 31, 2020-<br />Dec 11, 2020</td>
+<tr>
+<td  >CSE 1010-033L
+  (4315)</td>
+<td  >Intro Computing for Engineers (Laboratory)</td>
+<td  >19</td>
+<td  ></td>
+<td  >Th 12:00PM - 1:50PM</td>
+<td  >No Room Required - Online</td>
+<td  >Aug 31, 2020-<br />Dec 11, 2020</td>
+<tr>
+<td  >CSE 1010-034L
+  (4316)</td>
+<td  >Intro Computing for Engineers (Laboratory)</td>
+<td  >18</td>
+<td  ></td>
+<td  >Th 12:00PM - 1:50PM</td>
+<td  >No Room Required - Online</td>
+<td  >Aug 31, 2020-<br />Dec 11, 2020</td>
+<tr>
+<td  >CSE 1010-035L
+  (4410)</td>
+<td  >Intro Computing for Engineers (Laboratory)</td>
+<td  >18</td>
+<td  ></td>
+<td  >Th 6:30PM - 8:20PM</td>
+<td  >No Room Required - Online</td>
+<td  >Aug 31, 2020-<br />Dec 11, 2020</td>
+<tr>
+<td  >CSE 1010-036L
+  (4716)</td>
+<td  >Intro Computing for Engineers (Laboratory)</td>
+<td  >19</td>
+<td  ></td>
+<td  >Th 12:00PM - 1:50PM</td>
+<td  >No Room Required - Online</td>
+<td  >Aug 31, 2020-<br />Dec 11, 2020</td>
+<tr>
+<td  >CSE 1010-037L
+  (4717)</td>
+<td  >Intro Computing for Engineers (Laboratory)</td>
+<td  >20</td>
+<td  ></td>
+<td  >Th 4:30PM - 6:20PM</td>
+<td  >No Room Required - Online</td>
+<td  >Aug 31, 2020-<br />Dec 11, 2020</td>
+<tr>
+<td  >CSE 1010-051L
+  (5652)</td>
+<td  >Intro Computing for Engineers (Laboratory)</td>
+<td  >20</td>
+<td  ></td>
+<td  >Tu 10:00AM - 11:50AM</td>
+<td  >No Room Required - Online</td>
+<td  >Aug 31, 2020-<br />Dec 11, 2020</td>
+<tr>
+<td  >CSE 1010-052L
+  (5653)</td>
+<td  >Intro Computing for Engineers (Laboratory)</td>
+<td  >20</td>
+<td  ></td>
+<td  >Tu 1:00PM - 2:50PM</td>
+<td  >No Room Required - Online</td>
+<td  >Aug 31, 2020-<br />Dec 11, 2020</td>
+<tr>
+<td  >CSE 1010-053L
+  (5663)</td>
+<td  >Intro Computing for Engineers (Laboratory)</td>
+<td  >19</td>
+<td  ></td>
+<td  >Tu 1:00PM - 2:50PM</td>
+<td  >No Room Required - Online</td>
+<td  >Aug 31, 2020-<br />Dec 11, 2020</td>
+<tr>
+<td  >CSE 1010-054L
+  (5664)</td>
+<td  >Intro Computing for Engineers (Laboratory)</td>
+<td  >18</td>
+<td  ></td>
+<td  >Tu 10:00AM - 11:50AM</td>
+<td  >No Room Required - Online</td>
+<td  >Aug 31, 2020-<br />Dec 11, 2020</td>
+<tr>
+<td  >CSE 1010-055L
+  (5665)</td>
+<td  >Intro Computing for Engineers (Laboratory)</td>
+<td  >20</td>
+<td  ></td>
+<td  >Tu 4:30PM - 6:20PM</td>
+<td  >No Room Required - Online</td>
+<td  >Aug 31, 2020-<br />Dec 11, 2020</td>
+<tr>
+<td  >CSE 1010-056L
+  (5666)</td>
+<td  >Intro Computing for Engineers (Laboratory)</td>
+<td  >20</td>
+<td  ></td>
+<td  >Tu 6:30PM - 8:20PM</td>
+<td  >No Room Required - Online</td>
+<td  >Aug 31, 2020-<br />Dec 11, 2020</td>
+<tr>
+<td  >CSE 1010-057L
+  (5667)</td>
+<td  >Intro Computing for Engineers (Laboratory)</td>
+<td  >21</td>
+<td  ></td>
+<td  >Tu 8:00AM - 9:50AM</td>
+<td  >No Room Required - Online</td>
+<td  >Aug 31, 2020-<br />Dec 11, 2020</td>
+<tr>
+<td  >CSE 1010-061L
+  (18722)</td>
+<td  >Intro Computing for Engineers (Laboratory)</td>
+<td  >15</td>
+<td  ></td>
+<td  >Tu 10:00AM - 11:50AM</td>
+<td  >ITE 134</td>
+<td  >Aug 31, 2020-<br />Dec 11, 2020</td>
+<tr>
+<td  >CSE 1010-062L
+  (18723)</td>
+<td  >Intro Computing for Engineers (Laboratory)</td>
+<td  >16</td>
+<td  ></td>
+<td  >Tu 12:00PM - 1:50PM</td>
+<td  >ITE 134</td>
+<td  >Aug 31, 2020-<br />Dec 11, 2020</td>
+<tr>
+<td  >CSE 1010-063L
+  (18724)</td>
+<td  >Intro Computing for Engineers (Laboratory)</td>
+<td  >15</td>
+<td  ></td>
+<td  >Th 10:00AM - 11:50AM</td>
+<td  >ITE 134</td>
+<td  >Aug 31, 2020-<br />Dec 11, 2020</td>
+<tr>
+<td  >CSE 1010-064L
+  (18725)</td>
+<td  >Intro Computing for Engineers (Laboratory)</td>
+<td  >16</td>
+<td  ></td>
+<td  >Th 12:00PM - 1:50PM</td>
+<td  >ITE 134</td>
+<td  >Aug 31, 2020-<br />Dec 11, 2020</td>
+<tr>
+<td  >CSE 1010-H71
+  (16092)</td>
+<td  >Intro Computing for Engineers (Lecture)</td>
+<td  >53</td>
+<td  ></td>
+<td  >TBA</td>
+<td  >No Room Required - Online</td>
+<td  >Aug 31, 2020-<br />Dec 11, 2020</td>
+<tr>
+<td  >CSE 1010-H71L
+  (16093)</td>
+<td  >Intro Computing for Engineers (Laboratory)</td>
+<td  >18</td>
+<td  ></td>
+<td  >Mo 11:15AM - 1:05PM</td>
+<td  >No Room Required - Online</td>
+<td  >Aug 31, 2020-<br />Dec 11, 2020</td>
+<tr>
+<td  >CSE 1010-H72L
+  (16094)</td>
+<td  >Intro Computing for Engineers (Laboratory)</td>
+<td  >19</td>
+<td  ></td>
+<td  >We 11:15AM - 1:05PM</td>
+<td  >No Room Required - Online</td>
+<td  >Aug 31, 2020-<br />Dec 11, 2020</td>
+<tr>
+<td  >CSE 1010-H73L
+  (16095)</td>
+<td  >Intro Computing for Engineers (Laboratory)</td>
+<td  >16</td>
+<td  ></td>
+<td  >Fr 11:15AM - 1:05PM</td>
+<td  >No Room Required - Online</td>
+<td  >Aug 31, 2020-<br />Dec 11, 2020</td>
+<tr>
+<td  >CSE 1010-N60
+  (11407)</td>
+<td  >Intro Computing for Engineers (Lecture)</td>
+<td  >38</td>
+<td  ></td>
+<td  >TBA</td>
+<td  >No Room Required - Online</td>
+<td  >Aug 31, 2020-<br />Dec 11, 2020</td>
+<tr>
+<td  >CSE 1010-N60L
+  (11406)</td>
+<td  >Intro Computing for Engineers (Laboratory)</td>
+<td  >19</td>
+<td  ></td>
+<td  >Mo 5:45PM - 7:45PM</td>
+<td  >No Room Required - Online</td>
+<td  >Aug 31, 2020-<br />Dec 11, 2020</td>
+<tr>
+<td  >CSE 1010-N61L
+  (15830)</td>
+<td  >Intro Computing for Engineers (Laboratory)</td>
+<td  >19</td>
+<td  ></td>
+<td  >We 5:45PM - 7:45PM</td>
+<td  >No Room Required - Online</td>
+<td  >Aug 31, 2020-<br />Dec 11, 2020</td>
+<tr>
+<td  >CSE 1010-W31
+  (12820)</td>
+<td  >Intro Computing for Engineers (Lecture)</td>
+<td  >58</td>
+<td  ></td>
+<td  >TBA</td>
+<td  >No Room Required - Online</td>
+<td  >Aug 31, 2020-<br />Dec 11, 2020</td>
+<tr>
+<td  >CSE 1010-W31L
+  (12819)</td>
+<td  >Intro Computing for Engineers (Laboratory)</td>
+<td  >16</td>
+<td  ></td>
+<td  >Mo 5:30PM - 7:20PM</td>
+<td  >WTBY 224</td>
+<td  >Aug 31, 2020-<br />Dec 11, 2020</td>
+<tr>
+<td  >CSE 1010-W32L
+  (12832)</td>
+<td  >Intro Computing for Engineers (Laboratory)</td>
+<td  >14</td>
+<td  ></td>
+<td  >Mo 7:30PM - 9:20PM</td>
+<td  >WTBY 224</td>
+<td  >Aug 31, 2020-<br />Dec 11, 2020</td>
+<tr>
+<td  >CSE 1010-W33L
+  (14362)</td>
+<td  >Intro Computing for Engineers (Laboratory)</td>
+<td  >15</td>
+<td  ></td>
+<td  >Th 7:30PM - 9:20PM</td>
+<td  >WTBY 224</td>
+<td  >Aug 31, 2020-<br />Dec 11, 2020</td>
+<tr>
+<td  >CSE 1010-W34L
+  (17384)</td>
+<td  >Intro Computing for Engineers (Laboratory)</td>
+<td  >13</td>
+<td  ></td>
+<td  >Th 5:30PM - 7:20PM</td>
+<td  >WTBY 224</td>
+<td  >Aug 31, 2020-<br />Dec 11, 2020</td>
+<tr>
+<td  >CSE 1010-Z81
+  (16325)</td>
+<td  >Intro Computing for Engineers (Lecture)</td>
+<td  >75</td>
+<td  ></td>
+<td  >TBA</td>
+<td  >No Room Required - Online</td>
+<td  >Aug 31, 2020-<br />Dec 11, 2020</td>
+<tr>
+<td  >CSE 1010-Z81L
+  (11673)</td>
+<td  >Intro Computing for Engineers (Laboratory)</td>
+<td  >19</td>
+<td  ></td>
+<td  >Mo 1:25PM - 3:25PM</td>
+<td  >No Room Required - Online</td>
+<td  >Aug 31, 2020-<br />Dec 11, 2020</td>
+<tr>
+<td  >CSE 1010-Z82
+  (17128)</td>
+<td  >Intro Computing for Engineers (Lecture)</td>
+<td  >77</td>
+<td  ></td>
+<td  >TBA</td>
+<td  >No Room Required - Online</td>
+<td  >Aug 31, 2020-<br />Dec 11, 2020</td>
+<tr>
+<td  >CSE 1010-Z82L
+  (11678)</td>
+<td  >Intro Computing for Engineers (Laboratory)</td>
+<td  >20</td>
+<td  ></td>
+<td  >Mo 11:15AM - 1:15PM</td>
+<td  >No Room Required - Online</td>
+<td  >Aug 31, 2020-<br />Dec 11, 2020</td>
+<tr>
+<td  >CSE 1010-Z83L
+  (11755)</td>
+<td  >Intro Computing for Engineers (Laboratory)</td>
+<td  >18</td>
+<td  ></td>
+<td  >We 1:25PM - 3:25PM</td>
+<td  >No Room Required - Online</td>
+<td  >Aug 31, 2020-<br />Dec 11, 2020</td>
+<tr>
+<td  >CSE 1010-Z84L
+  (11845)</td>
+<td  >Intro Computing for Engineers (Laboratory)</td>
+<td  >19</td>
+<td  ></td>
+<td  >We 11:15AM - 1:15PM</td>
+<td  >No Room Required - Online</td>
+<td  >Aug 31, 2020-<br />Dec 11, 2020</td>
+<tr>
+<td  >CSE 1010-Z85L
+  (16319)</td>
+<td  >Intro Computing for Engineers (Laboratory)</td>
+<td  >20</td>
+<td  ></td>
+<td  >Mo 4:25PM - 6:25PM</td>
+<td  >No Room Required - Online</td>
+<td  >Aug 31, 2020-<br />Dec 11, 2020</td>
+<tr>
+<td  >CSE 1010-Z86L
+  (16320)</td>
+<td  >Intro Computing for Engineers (Laboratory)</td>
+<td  >19</td>
+<td  ></td>
+<td  >We 9:25AM - 11:25AM</td>
+<td  >No Room Required - Online</td>
+<td  >Aug 31, 2020-<br />Dec 11, 2020</td>
+<tr>
+<td  >CSE 1010-Z87L
+  (16321)</td>
+<td  >Intro Computing for Engineers (Laboratory)</td>
+<td  >18</td>
+<td  ></td>
+<td  >Mo 9:25AM - 11:25AM</td>
+<td  >No Room Required - Online</td>
+<td  >Aug 31, 2020-<br />Dec 11, 2020</td>
+<tr>
+<td  >CSE 1010-Z88L
+  (18822)</td>
+<td  >Intro Computing for Engineers (Laboratory)</td>
+<td  >19</td>
+<td  ></td>
+<td  >Tu 12:30PM - 2:30PM</td>
+<td  >No Room Required - Online</td>
+<td  >Aug 31, 2020-<br />Dec 11, 2020</td>
+<tr>
+<td  >CSE 4099-018
+  (3131)</td>
+<td  >Indep Stdy in Comp Sci &amp; Engin (Independent Study)</td>
+<td  >1</td>
+<td  ></td>
+<td  >TBA</td>
+<td  >No Room Required - Online</td>
+<td  >Aug 31, 2020-<br />Dec 11, 2020</td>
+<tr>
+<td  >CSE 4939W-003
+  (11301)</td>
+<td  >CSE Design Project I (Laboratory)</td>
+<td  >5</td>
+<td  ></td>
+<td  >MoWe 4:40PM - 5:55PM</td>
+<td  >No Room Required - Online</td>
+<td  >Aug 31, 2020-<br />Dec 11, 2020</td>
+<tr>
+<td  >CSE 5099-006
+  (2817)</td>
+<td  >Indep Study in Comp Sci Engr (Independent Study)</td>
+<td  >4</td>
+<td  ></td>
+<td  >TBA</td>
+<td  >No Room Required - Online</td>
+<td  >Aug 31, 2020-<br />Dec 11, 2020</td>
+<tr>
+<td  >GRAD 6950-1004
+  (19637)</td>
+<td  >Doctoral Dissertation Research (Dissertation Research)</td>
+<td  >1</td>
+<td  ></td>
+<td  >TBA</td>
+<td  >TBA</td>
+<td  >Aug 31, 2020-<br />Dec 11, 2020</td>
+</table></body></html>
