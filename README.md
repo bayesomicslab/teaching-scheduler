@@ -1,5 +1,5 @@
 # instructor-scheduler
-Python resource for scheduling instructor resources.
+Python resource for scheduling instructors.
 
 ## Usage
 ```
@@ -29,7 +29,7 @@ conda install -c conda-forge ortools-python
 
 ## Input
 
-###Create the INSTRUCTORS file.
+### Create the INSTRUCTORS file.
 
 Create a TSV file with 3 columns and each line being the instructors name, 
 minimum classes they can cover, and maximum classes they can cover. See below for 
@@ -44,7 +44,7 @@ Instructor Name5	1	3
 ```
 
 
-###Create the CLASSES file.
+### Create the CLASSES file.
 
 - **Download your schedule from student admin.** Log into [student admin](https://student.studentadmin.uconn.edu/) and 
 go to "My Schedule". Select the correct Term. Click the small spreadsheet icon to the right of the 
@@ -58,10 +58,10 @@ go to "My Schedule". Select the correct Term. Click the small spreadsheet icon t
   See the data/class_times_withtas.tsv and data/class_times_withtas_filtered.tsv files.
 
 
-###Filtering course names
+### Filtering course names
 If you only want to consider a single course (e.g. CSE 1010) then add a filter with -f, e.g., "-f 1010"
 
-###Run the program
+### Run the program
 Example usage:
 ```
 python Main.py -i data/num_labs_ta_assignment.tsv -c data/class_times_withtas.tsv -f 1010
